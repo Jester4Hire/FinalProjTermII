@@ -1,0 +1,18 @@
+1) How many cases called for EMS?
+2) How many cases called for the Fire Dep.?
+3) How many cases called for the police?
+4) What are the average calls for EMS compared to the Fire Dep. or Police?
+5) How many cases involved need for medical attention?
+6) What was the most needed department?(Fire Dep, EMS, Police, etc.)
+7) How many calls involved the Fire Dep. putting out actual fires?
+8) What was least called department?
+9) How many calls needed all departments at once?
+10) How many calls were false alarms?
+11) What times were there the most calls?
+12) How many calls for police compared to EMS between the hours of 6 pm to 6 am?
+13) How many calls for EMS compared to police between the hours of 6 pm to 6 am?
+14) How many calls for Fire Dep. compared to EMS between the hours of 6 pm to 6 am?
+15) How many calls for EMS compared to Fire Dep. between the hours of 6 pm to 6 am?
+16) How many calls for police compared to Fire Dep. between the hours of 6 pm to 6 am?
+17) How many calls for Fire Dep. compared to police between the hours of 6 pm to 6 am?
+18) Repeat ques. 12-17, during the hours of 6 am to 12 pm and 12 pm to 6 pm.
